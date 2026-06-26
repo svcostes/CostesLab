@@ -1,0 +1,15 @@
+diplib
+tifffile
+plotly
+ipywidgets
+scipy
+scikit-image
+scikit-learn
+pandas
+numpy
+matplotlib
+jupyterlab
+jupyterlab-widgets
+tqdm
+czifile
+spyder

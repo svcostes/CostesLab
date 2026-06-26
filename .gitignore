@@ -1,4 +1,38 @@
-.Rproj.user
+# MATLAB autosave
+*.asv
+
+# Compiled binaries
+*.dll
+*.mexw64
+*.mexa64
+*.mexsg
+*.mex4
+*.mexglx
+*.p
+
+# Data files
+*.mat
+*.ics
+*.ids
+*.tif
+*.tiff
+*.fig
+*.xls
+*.xlsx
+*.xlsm
+*.avi
+*.zip
+
+# Logs and OS
+*.log
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+costes_lab_env/
+
+# R
 .Rhistory
 .RData
-.Ruserdata
